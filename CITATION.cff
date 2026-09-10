@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use KomlosEncode, please cite the software and the method paper."
+title: "KomlosEncode"
+abstract: "Compact +/-1 (Komlos-Hadamard) encoding of biological sequences with Hilbert-curve image support."
+authors:
+  - family-names: Kabbani
+    given-names: Kareem
+  - family-names: Belhaouari
+    given-names: Samir B.
+  - family-names: Aupetit
+    given-names: Michael
+  - family-names: Al-Qahtani
+    given-names: Aisha
+  - family-names: Halabi
+    given-names: Ahmad
+  - family-names: Haoudi
+    given-names: Sophia L.
+  - family-names: Bensmail
+    given-names: Halima
+    email: hbensmail@hbku.edu.qa
+license: MIT
+repository-code: "https://github.com/aisha-alqahtani/KomlosEncode"
+version: 0.1.0
